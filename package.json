@@ -1,8 +1,8 @@
 {
   "name": "discord.js-gamerooms",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Create private rooms for small groups on Discord",
-  "main": "/lib/gameRooms.js",
+  "main": "./lib/gameRooms.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
