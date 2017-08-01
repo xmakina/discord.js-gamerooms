@@ -1,0 +1,27 @@
+{
+  "name": "discord.js-gamerooms",
+  "version": "1.0.0",
+  "description": "Create private rooms for small groups on Discord",
+  "main": "/lib/gameRooms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmakina/discord.js-gamerooms.git"
+  },
+  "keywords": [
+    "discord",
+    "discordjs"
+  ],
+  "author": "xmakina <github@xmakina.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xmakina/discord.js-gamerooms/issues"
+  },
+  "homepage": "https://github.com/xmakina/discord.js-gamerooms#readme",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "mongoose": "^4.11.5"
+  }
+}
