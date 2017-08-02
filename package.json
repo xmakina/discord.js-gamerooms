@@ -1,6 +1,6 @@
 {
   "name": "discord.js-gamerooms",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Create private rooms for small groups on Discord",
   "main": "./lib/gameRooms.js",
   "scripts": {
